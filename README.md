@@ -55,7 +55,7 @@ O YouTube Music foi desenvolvido para funcionar em diferentes dispositivos, perm
 
 # Desenvolvedores
 
-Este projeto foi desenvolvido pelo nosso grupo, responsável pela criação e desenvolvimento da aplicação inspirada no YouTube Music.
+Este projeto foi desenvolvido pela dupla, responsável pela criação e desenvolvimento da aplicação inspirada no YouTube Music.
 
 ### Integrantes
 
